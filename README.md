@@ -1,4 +1,4 @@
-<h3 align="left">Yağız Aladağ🛡️ | Network Security Engineer</h3>
+<h1 align="left">Yağız Aladağ🛡️ | Network Security Engineer</h1>
 
 ###
 
