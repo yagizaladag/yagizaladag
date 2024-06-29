@@ -1,4 +1,3 @@
-
 <h3 align="left">Yağız Aladağ🛡️ | Network Security Engineer</h3>
 
 ###
@@ -51,11 +50,5 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yagizaladag/yagizaladag/output/snake.svg" alt="Snake animation" />
 
 ###
