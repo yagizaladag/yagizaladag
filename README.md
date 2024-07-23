@@ -1,16 +1,16 @@
 ## Hey 👋, I'm Yağız Aladağ  
   
 
-<a href="https://github.com/https://github.com/yagizaladag" target="_blank">
+<a href="https://github.com/yagizaladag" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://x.com/_yagizaladag" target="_blank">
+<a href="https://twitter.com/_yagizaladag" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ya%C4%9F%C4%B1zalada%C4%9F/" target="_blank">
+<a href="https://linkedin.com/in/ya%C4%9F%C4%B1zalada%C4%9F/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@yagiz_aladag" target="_blank">
+<a href="https://medium.com/@yagiz_aladag" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@yagizaladag" target="_blank">
