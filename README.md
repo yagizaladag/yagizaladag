@@ -34,7 +34,7 @@
 - 🌱 Learning Splunk and System Administration to deepen my expertise.  
   
 
-- ❓ Ask me about Linux, Network Security, or optimizing system performance for robust cyber defenses.  
+- ❓ Ask me about SQL, Data Analysys, Linux, Network Security, or optimizing system performance for robust cyber defenses.  
 
 
 </td><td valign="top" width="50%">
