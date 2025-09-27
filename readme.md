@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Cyber_support_to_1st_Cavalry_Division_at_National_Training_Center_%2847019434371%29.jpg"  />
+  <img height="600" src="https://api.army.mil/e2/c/images/2013/08/22/309117/original.jpg"  />
 </div>
 
 ###
