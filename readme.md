@@ -1,4 +1,6 @@
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWsyaG9zZ2FuaDRteTBob3hicXU0enlmOXZ2M2dwaTR2cjFkbzAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11zb8pY7ziYZig/giphy.gif"  />
 
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1zalada%C4%9F/" target="_blank">
