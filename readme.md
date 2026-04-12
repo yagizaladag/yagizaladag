@@ -1,12 +1,8 @@
 <h1 align="left">Yağız Aladağ</h1>
 
-###
-
 <h2 align="left">Network & Cybersecurity Solutions Architect | System Support & IT Infrastructure Expert</h2>
 
-###
-
-<img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWsyaG9zZ2FuaDRteTBob3hicXU0enlmOXZ2M2dwaTR2cjFkbzAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11zb8pY7ziYZig/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWsyaG9zZ2FuaDRteTBob3hicXU0enlmOXZ2M2dwaTR2cjFkbzAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11zb8pY7ziYZig/giphy.gif"  />
 
 ###
 
