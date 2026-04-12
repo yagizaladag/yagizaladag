@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWsyaG9zZ2FuaDRteTBob3hicXU0enlmOXZ2M2dwaTR2cjFkbzAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11zb8pY7ziYZig/giphy.gif"  />
+<img align="right" height="350" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWsyaG9zZ2FuaDRteTBob3hicXU0enlmOXZ2M2dwaTR2cjFkbzAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11zb8pY7ziYZig/giphy.gif"  />
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🌍 High-Tech Solutions Engineer with a focus on secure, scalable and reliable systems.<br><br>💻 Building software and infrastructure solutions where security is not an add-on, but a core design principle.<br><br>⚙️ Interested in system design, backend development, secure architectures, and modern infrastructure integration.<br><br>🚀 Writing code that connects software, systems, and security into one consistent engineering approach.</p>
+<p align="left">🌍 High-Tech Solutions Engineer with a focus on secure, scalable and reliable systems.<br><br>💻 Building software and infrastructure solutions where security is not an add-on, but a core design principle.<br><br>🚀 Writing code that connects software, systems, and security into one consistent engineering approach.</p>
 
 ###
 
