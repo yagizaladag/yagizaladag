@@ -1,6 +1,4 @@
-<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWsyaG9zZ2FuaDRteTBob3hicXU0enlmOXZ2M2dwaTR2cjFkbzAxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11zb8pY7ziYZig/giphy.gif"  />
-
-###
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhxeTR2dWIycTd3b285ZGFnNmVkNXJiZjd0c3k1eG11Ymtzb3VyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xD5ZIsxGJuhUqs/giphy.gif"  />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1zalada%C4%9F/" target="_blank">
@@ -21,14 +19,7 @@
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
 </div>
 
-###
-
 <p align="left">🌍 High-Tech Solutions Engineer with a focus on secure, scalable and reliable systems.<br><br>💻 Building software and infrastructure solutions where security is not an add-on, but a core design principle.<br><br>🚀 Writing code that connects software, systems, and security into one consistent engineering approach.</p>
 
-###
-
 <br clear="both">
-
 <h4 align="center">Secure By Design, Built To Scale</h4>
-
-###
