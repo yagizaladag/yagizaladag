@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhxeTR2dWIycTd3b285ZGFnNmVkNXJiZjd0c3k1eG11Ymtzb3VyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xD5ZIsxGJuhUqs/giphy.gif"  />
+<img align="right" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdqbGx2NTdwNzRmNm9za2l0NXBwejRlMnhsbHRhcHM1bGk2ZDZ6MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif"  />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ya%C4%9F%C4%B1zalada%C4%9F/" target="_blank">
