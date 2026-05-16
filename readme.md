@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
 </div>
 
-<p align="left">🌍 High-Tech Solutions Engineer with a focus on secure, scalable and reliable systems.<br><br>💻 Building software and infrastructure solutions where security is not an add-on, but a core design principle.<br><br>🚀 Writing code that connects software, systems, and security into one consistent engineering approach.</p>
+<p align="left">🌍 Computer Sciences Engineer with a focus on secure, scalable and reliable systems.<br><br>💻 Building software and infrastructure solutions where security is not an add-on, but a core design principle.<br><br>🚀 Writing code that connects software, systems, and security into one consistent engineering approach.</p>
 
 <br clear="both">
 <h4 align="center">Secure By Design, Built To Scale</h4>
